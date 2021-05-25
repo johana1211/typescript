@@ -4,7 +4,7 @@ import { render } from 'react-dom';
 class App extends Component {
     render() {
         return(
-            <h1>React Socket.io</h1>
+            <h1>React, Socket.io</h1>
         )
     }
 }; 
