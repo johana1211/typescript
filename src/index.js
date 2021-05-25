@@ -7,6 +7,6 @@ class App extends Component {
             <h1>React Socket.io</h1>
         )
     }
-}
+}; 
 
 render(<App/>, document.getElementById('app')); 
